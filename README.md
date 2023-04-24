@@ -1,6 +1,6 @@
 ## JOOHYEIN 😉
 ***
-[![Joohyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohyein)](https://github.com/anuraghazra/github-readme-stats)
+![Joohyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohyein&show_icons=true&theme=moltack)
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h2in2)](https://solved.ac/h2in2/)
 
